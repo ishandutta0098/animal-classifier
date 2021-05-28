@@ -1,4 +1,4 @@
-# catDogClassifier
+# Animal Classifier
 Classification of Images as Cats or Dogs using FastAI.
 
 # Model Demo
